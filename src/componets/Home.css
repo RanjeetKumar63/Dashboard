@@ -1,0 +1,41 @@
+.card{
+  width: 24em;
+  height: 14em;
+  border: 0px solid grey;
+  background: rgba(245, 245, 245, 0.482);
+  margin: 2px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 1px 1px grey;
+  
+
+}
+
+.box{
+  border: 2px solid rgba(220, 220, 220, 0.527);
+  display: flex;
+  width: 1600px;
+  height: 100vh;
+  justify-content: space-around;
+  padding:15px;
+  margin: 1px;
+}
+ .box p{
+  margin: 30px;
+  font-size: x-large;
+ }
+.card-n{
+  display:grid;
+  
+
+}
+.icons{
+  margin: 2px;
+  color:green;
+}
+
+.iconst{
+  color: red;
+}
+.iconstt{
+  color: orange;
+}
