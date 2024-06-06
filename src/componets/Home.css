@@ -3,7 +3,7 @@
   height: 14em;
   border: 0px solid grey;
   background: rgba(245, 245, 245, 0.482);
-  margin: 2px;
+  margin: 20px;
   border-radius: 4px;
   box-shadow: 0px 0px 1px 1px grey;
   
@@ -13,11 +13,13 @@
 .box{
   border: 2px solid rgba(220, 220, 220, 0.527);
   display: flex;
-  width: 1600px;
+  width: 1480px;
   height: 100vh;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding:15px;
-  margin: 1px;
+ margin-left: 20px;
+ 
+  
 }
  .box p{
   margin: 30px;
